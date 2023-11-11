@@ -28,4 +28,5 @@
 
 .greeting {
     font-size: 50px;
+    text-shadow: 1px 0 50px black;
 }
